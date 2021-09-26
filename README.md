@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sathishmanthani
-- 👀 I’m interested in coding in python, solving large-scale data problems and system design.
+- 👀 I’m interested in coding, solving large-scale data problems and system design.
 - 📫 Find me on Linkedin.
 
 <!---
